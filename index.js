@@ -3,6 +3,4 @@ function scuberGreetingForFeet(ride) {
       return 'This one is on me!';
  else if (scuberGreetingForFeet.ride > 2000);
   return 'I will gladly take your thirty bucks.';
-  else if (scuberGreetingForFeet.ride > 2500);
-  return 'No can do.';
 }
